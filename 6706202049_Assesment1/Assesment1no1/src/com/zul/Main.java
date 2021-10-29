@@ -15,7 +15,7 @@ public class Main {
 
         // Dropship
         new MarketPlace(4, "N0002", "Si Cepat", 24000, "Dropship2", "Pontianak", "Joko", "DayeuhKolot", true);
-        // untuk menginisialisai Objek dengan keyword new
+        // untuk menginisialisasi Objek dengan keyword new
         // Lalu membawa sebuah parameter
     }
 }
